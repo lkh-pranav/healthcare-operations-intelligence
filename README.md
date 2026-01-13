@@ -32,9 +32,9 @@ Which patient groups miss appointments the most, and **how missed visits reduce 
 ---
 
 ## Project Architecture (High Level)
-**Business Framing** → **Data Foundation** → **Analytical Engineering** → **Executive Outputs**
+**Problem Framing** → **Data Foundation** → **Analytical Engineering** → **Executive Outputs**
 
-- **Business Framing:** Start with clear executive questions about demand, delays, and missed appointments  
+- **Problem Framing:** Start with clear executive questions about demand, delays, and missed appointments  
 - **Data Foundation:** Clean, structured hospital data built into reliable tables for analysis  
 - **Analytical Engineering:** Metrics designed so departments and time periods can be compared fairly  
 - **Executive Outputs:** Power BI dashboards that turn numbers into decisions, insights, and recommendations  
