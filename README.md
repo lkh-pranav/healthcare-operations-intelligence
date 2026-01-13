@@ -1,6 +1,6 @@
 # Healthcare Operations Intelligence — ApexCare Medical Center
 
-## Executive Summary
+## Overview
 
 This project studies hospital data from **ApexCare Medical Center** to understand what patients experience during a typical visit.
 
@@ -40,10 +40,14 @@ In short, the project helps leaders **see the whole system clearly and act preci
 ## Project Architecture (High Level)
 **Problem Framing** → **Data Foundation** → **Analytical Engineering** → **Executive Outputs**
 
-- **Problem Framing:** Start with clear executive questions about demand, delays, and missed appointments  
-- **Data Foundation:** Clean, structured hospital data built into reliable tables for analysis  
-- **Analytical Engineering:** Metrics designed so departments and time periods can be compared fairly  
-- **Executive Outputs:** Power BI dashboards that turn numbers into decisions, insights, and recommendations  
+- **Problem Framing:** Sets the business context, defines why the problem matters to leadership, and clearly states the three executive questions around demand, delays, and no-shows.
+
+- **Data Foundation:** Brings together data sources, profiling, cleaning, and modeling to create accurate, reliable hospital data ready for analysis.
+
+- **Analytical Engineering:** Builds a business-ready semantic model that converts raw events into consistent metrics that can be fairly compared across departments, clinicians, and time.
+
+- **Executive Outputs:** Translates analysis into clear insights, recommendations, and dashboards that show where problems exist and what actions leaders can take.
+
 
 ---
 
