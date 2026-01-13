@@ -16,24 +16,19 @@ By turning daily hospital activity into clear patterns across departments, time,
 
 ---
 
-## Executive Questions Addressed
+## What This Project Makes Possible
 
-### 1. Patient Demand & Bottlenecks
-Which departments are the busiest, **when patients come in (day, hour, month)**, and **where crowding or slowdowns happen** that may need more staff or better planning?
+This project turns everyday hospital activity in ApexCare Medical Center into **clear, actionable insight**. It shows exactly **where demand concentrates, where time is lost, and where capacity is wasted**, replacing guesswork with evidence.
 
-### 2. Clinical Throughput & Appointment Timeliness
-How smoothly patients move through a hospital visit, **where waiting time builds up**, and which departments or schedules struggle to start appointments on time?
+### What Leaders Gain
+- **Clear demand visibility:** which departments are busiest, and when peaks occur by day, hour, and season.
+- **Understanding of delays:** where waiting builds up in the patient journey, especially before care begins.
+- **Fair performance measurement:** separating system delays from clinician performance using contextual SLA views.
+- **Recovered capacity:** identifying high-impact no-show segments where small improvements unlock many appointments.
+- **Smarter use of existing resources:** shifting staff, time, and slots to the right places without adding headcount or space.
 
-### 3. No-Show Impact
-Which patient groups miss appointments the most, and **how missed visits reduce hospital capacity** that could have been used for other patients?
+In short, the project helps leaders **see the whole system clearly and act precisely** to improve flow, reduce delays, and use current resources more effectively.
 
----
-
-## Decisions This Enables
-- Where to **add or shift capacity** (by department, day, hour, or season)
-- How to **improve front-end workflows** like check-in and triage to reduce waiting
-- How to **measure clinician performance fairly** using SLA benchmarks
-- How to **reduce the impact of no-shows** using smarter scheduling instead of blind overbooking
 
 ---
 
@@ -53,16 +48,7 @@ Which patient groups miss appointments the most, and **how missed visits reduce 
 ---
 
 ## Power BI Dashboard Overview
-*(Page 1 — Patient Demand & Bottlenecks)*  
 
-![Dashboard Preview](04_executive_outputs/PBI_dashboard_screenshots/page1_patient_demand.png)
 
-*(Page 2 — Clinical Throughput & Appointment Timeliness)* 
-
-![Dashboard Preview](04_executive_outputs/PBI_dashboard_screenshots/page2_clinical_throughput.png)
-
-*(Page 3 — No-Show Impact)* 
-
-![Dashboard Preview](04_executive_outputs/PBI_dashboard_screenshots/page3_no_show_impact.png)
 
 
