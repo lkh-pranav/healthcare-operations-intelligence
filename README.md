@@ -1,7 +1,18 @@
 # Healthcare Operations Intelligence — ApexCare Medical Center
 
 ## Executive Summary
-This project studies hospital data from ApexCare Medical Center to understand **where most patients come from, why patients experience delays, and how hospital processes affect care delivery**. Using SQL, Python, and Power BI, raw appointment and visit data is turned into **clear, easy-to-read insights** that help hospital leaders plan capacity, improve workflows, and review performance using data instead of opinions.
+
+This project studies hospital data from **ApexCare Medical Center** to understand what patients experience during a typical visit.
+
+Every day, patients arrive expecting timely care, but some departments get crowded, some hours feel rushed, and many patients wait longer than they should. This project tells the story behind that experience by following how patients move through the hospital—from booking an appointment to seeing a doctor—and showing where things slow down.
+
+It answers three simple but important questions:
+- **Where and when patient demand is highest**
+- **Why patients spend so much time waiting before care begins**
+- **How missed appointments quietly waste hospital capacity**
+
+By turning daily hospital activity into clear patterns across departments, time, and patient groups, this project helps hospital leaders see what is really happening on the ground and make smarter decisions to improve flow, reduce delays, and use existing resources more effectively.
+
 
 ---
 
