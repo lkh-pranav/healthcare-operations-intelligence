@@ -51,8 +51,9 @@ In short, the project helps leaders **see the whole system clearly and act preci
 
 ---
 
-## Power BI Dashboard Overview
+## Power BI Dashboard
 
+👉 **[Click here to view the live dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTBmOTMyMDMtMmJlOC00MWRiLTkyNGQtYzhkNTJiOWY3ZmJmIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=6a35213b986767198771)**
 
 
 
