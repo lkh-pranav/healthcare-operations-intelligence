@@ -41,14 +41,17 @@ Which patient groups miss appointments the most, and **how missed visits reduce 
 
 ---
 
-## Dashboard Preview
+## Power BI Dashboard Overview
 *(Page 1 — Patient Demand & Bottlenecks)*  
 
-![Dashboard Preview](C:/Users/Pranav/Desktop/Portfolio Projects/1. UAE Hospital Patient Flow/Power BI Dashboard/Screenshots/page1_patient_demand.png)
+![Dashboard Preview](04_executive_outputs/PBI_dashboard_screenshots/page1_patient_demand.png)
 
----
+*(Page 2 — Clinical Throughput & Appointment Timeliness)* 
 
-## Skills Demonstrated
-**SQL Modeling** | **Analytical Engineering** | **Data Quality & Governance** | **Healthcare Operations Analytics** | **BI Storytelling for Executives**
+![Dashboard Preview](04_executive_outputs/PBI_dashboard_screenshots/page2_clinical_throughput.png)
 
----
+*(Page 3 — No-Show Impact)* 
+
+![Dashboard Preview](04_executive_outputs/PBI_dashboard_screenshots/page3_no_show_impact.png)
+
+
