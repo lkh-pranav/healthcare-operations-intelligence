@@ -32,11 +32,6 @@ In short, the project helps leaders **see the whole system clearly and act preci
 
 ---
 
-## Tools Used
-**SQL** | **Python** | **Power BI**
-
----
-
 ## Project Architecture (High Level)
 **Problem Framing** → **Data Foundation** → **Analytical Engineering** → **Executive Outputs**
 
@@ -48,6 +43,12 @@ In short, the project helps leaders **see the whole system clearly and act preci
 
 - **Executive Outputs:** Translates analysis into clear insights, recommendations, and dashboards that show where problems exist and what actions leaders can take.
 
+
+---
+
+
+## Tools Used
+**SQL** | **Python** | **Power BI**
 
 ---
 
